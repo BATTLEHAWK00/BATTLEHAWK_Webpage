@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到BATTLEHAWK的GitHub页面
 
-You can use the [editor on GitHub](https://github.com/BATTLEHAWK00/BATTLEHAWK_Webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[查看我的仓库](https://github.com/BATTLEHAWK00/BATTLEHAWK_Webpage/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
